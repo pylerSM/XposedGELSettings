@@ -200,7 +200,7 @@
         <item>Notifikačná lišta</item>
         <item>Rýchle nastavenia</item>
         <item>Ponuka aplikácií</item>
-        <item></item>Nedávne aplikácie</item>
+        <item>Nedávne aplikácie</item>
         <item>Nastavenia Androidu</item>
         <item>Prejsť do spánku</item>
         <item>Prepnúť dok</item>
@@ -208,9 +208,9 @@
     </string-array>
     
     <string-array name="gesture_actions_entries_limited">
-        <item>None</item>
-        <item>App drawer</item>
-        <item>Toggle dock</item>
+        <item>Žiadna</item>
+        <item>Ponuka aplikácií</item>
+        <item>Prepnúť dok</item>
     </string-array>
     
     <string name="pref_choose_gesture_action_title">Vyberte akciu gesta</string>
@@ -228,10 +228,8 @@
     <string name="pref_gesture_up_right_title">Potiahnutie nahor vpravo</string>
     <string name="alert_hidedock_summary">Prosím, uistite sa, že ste nastavili prepínač skrytia/zobrazenia buď v ponuke gest alebo aktivovali dynamické tlačidlo Domov v sekcii Vylepšenia rozhrania. V opačnom prípade nebudete môcť otvoriť ponuku aplikácií!</string>
     <string name="alert_hidewidgets_title">Poznámka</string>
-    <string name="alert_hidewidgets_summary">žete vybrať len miniaplikácie v tomto zozname. Odkazy momentálne skryté byť nemôžu.</string>
+    <string name="alert_hidewidgets_summary">Môžete vybrať len miniaplikácie v tomto zozname. Odkazy momentálne skryté byť nemôžu.</string>
     <string name="pref_limited_title">Limitované</string>
-    <string name="pref_limited_summary">Niektoré z týchto funkcií sú k dispozícii iba v darcovskej verzii.</string>
-    
-    <!-- V1.5.2 -->
+    <string name="pref_limited_summary">Niektoré z týchto funkcií sú k dispozícii len v darcovskej verzii.</string>
     
 </resources>
