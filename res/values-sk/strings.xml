@@ -84,7 +84,7 @@
     <string name="toast_desktop_locked">XGELN: Plocha je zamknutá!</string>
     <string name="toast_fail">Ok&#8230; toto nefunguje :-S\nProsím, skontrolujte logcat</string>
     <string name="pref_switch_appdock_title">Skryť dok</string>
-    <string name="pref_switch_appdock_summary">Posunúť nahor pre jeho opätovné zobrazenie</string>
+    <string name="pref_switch_appdock_summary">Skryť dok aplikácií</string>
     <string name="pref_lock_desktop_title">Zamknúť plochu</string>
     <string name="pref_lock_desktop_summary">Zabrániť nechcenému ťahaniu</string>
     <string name="pref_continuous_scroll_title">Nepretržitý posun</string>
@@ -118,7 +118,7 @@
         <item>Ponuka aplikácií</item>
         <item>Gestá</item>
         <item>Vylepšenia rozhrania</item>
-        <item>Import/Export</item>
+        <item>Zálohovať/Obnoviť</item>
         <item>Nastavenia</item>
         <item>Dar/Podpora</item>
     </string-array>
