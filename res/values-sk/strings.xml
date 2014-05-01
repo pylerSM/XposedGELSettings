@@ -234,21 +234,21 @@
         <item>G+ štýl</item>
         <item>G+ štýl (polopriehľadné)</item>
     </string-array>
-        <string name="pref_debug">Enable debug logging</string>
-    <string name="pref_send_bugreport">Send bug report</string>
-    <string name="toast_no_log_found">Couldn\'t find debug.log of Xposed Installer</string>
-    <string name="alert_debug_logging_activated_title">Debug logging activated!</string>
-    <string name="alert_debug_logging_activated_summary">Debug logging is now enabled. Please reproduce the error and send the debug log.</string>
-    <string name="alert_debug_logging_not_activated_title">Debug logging not activated!</string>
-    <string name="alert_debug_logging_not_activated_summary">Debug logging is not enabled. Make sure to enable debug logging and reproduce the error before sending a logfile.</string>
+    <string name="pref_debug">Povoliť záznamy na ladenie</string>
+    <string name="pref_send_bugreport">Poslať hlásenie o chybe</string>
+    <string name="toast_no_log_found">Nemožno nájsť debug.log Xposed Inštalátora</string>
+    <string name="alert_debug_logging_activated_title">Záznamy na ladenie aktivované!</string>
+    <string name="alert_debug_logging_activated_summary">Záznamy na ladenie sú teraz povolené. Prosím, zopakujte kroky, ktoré viedli k chybe a odošlite záznam na ladenie.</string>
+    <string name="alert_debug_logging_not_activated_title">Záznamy na ladenie deaktivované!</string>
+    <string name="alert_debug_logging_not_activated_summary">Záznamy na ladenie sú teraz zakázané. Uistite sa, že ste povolili záznamy na ladenie a zopakovali kroky, ktoré viedli k chybe pred odoslaní súboru záznamu.</string>
     
     <string name="alert_autokill_title">Poznámka</string>
-    <string name="alert_autokill_summary">XGELS automatically kills GNL/Trebuchet as soon as a change is made. When returning to the homescreen GNL/Trebuchet will be launched with the new settings.</string>
+    <string name="alert_autokill_summary">XGELS automaticky ukončí GNL/Trebuchet po zmene nastavenia. Po návrate na domovskú obrazovku bude spúšťač GNL/Trebuchet spustený s novými nastaveniami.</string>
     <string name="alert_autokill_ok">Chápem!</string>
     <string name="alert_autokill_cancel">Spravím to sám!</string>
-    <string name="alert_autokill_checkbox">Úž nezobrazovať</string>
+    <string name="alert_autokill_checkbox">Už nezobrazovať</string>
     <string name="pref_autokill_launcher_title">Ukončiť spúšťač</string>
-    <string name="pref_autokill_launcher_summary">Kill GNL/Trebuchet automatically once a preference is changed. When going back to the homescreen GNL/Trebuchet will then be loaded with the new settings.</string>
+    <string name="pref_autokill_launcher_summary">Ukončiť GNL/Trebuchet automaticky po zmene nastavenia. Po návrate na domovskú obrazovku bude spúšťač GNL/Trebuchet spustený s novými nastaveniami.</string>
     
     <string name="pref_notificationbadge_enable_title">Povoliť symboly</string>
     <string name="pref_notificationbadge_backgroundcolor_title">Farba pozadia</string>
@@ -258,8 +258,8 @@
     <string name="pref_notificationbadge_framesize_title">Veľkosť rámu</string>
     <string name="pref_notificationbadge_corner_title">Polomer rohu</string>
     <string name="pref_notificationbadge_presets_title">Predvoľby</string>
-    <string name="pref_notificationbadge_leftright_padding_title">Left/Right padding</string>
-    <string name="pref_notificationbadge_topbottom_padding_title">Top/Bottom padding</string>
+    <string name="pref_notificationbadge_leftright_padding_title">Výplň na ľavo a na pravo</string>
+    <string name="pref_notificationbadge_topbottom_padding_title">Výplň na vrchu a na spodku</string>
     
     <string name="pref_switch_gesture_double_tap_only_on_wallpaper_title">Len na tapete</string>
     <string name="pref_switch_gesture_double_tap_only_on_wallpaper_summary">Povoliť dvojité kliknutie len na tapete. Zníži sa oneskorenie kvôli rozpoznávaniu gesta dvojitého kliknutia na ikony.</string>
