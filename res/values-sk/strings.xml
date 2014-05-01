@@ -272,7 +272,7 @@
     <string name="alert_xgels_updated_cancel">Neskôr</string>
     
     <string name="alert_launcher_not_installed_title">Nenájdený podporovaný spúšťač!</string>
-    <string name="alert_launcher_not_installed_summary">Zdá sa, že nemáte nainštalovaný Spúšťač Google Now alebo Trebuchet. Tento modul je navrhnutý pre tieto dva spúšťače a nefunguje s inými. Prosím, nainštalujte GNL alebo Trebuchet pred použitím tejto aplikácie!</string>
+    <string name="alert_launcher_not_installed_summary">Zdá sa, že nemáte nainštalovaný Google Now Launcher (GNL) alebo Trebuchet. Tento modul je navrhnutý pre tieto dva spúšťače a nefunguje s inými. Prosím, nainštalujte GNL alebo Trebuchet pred použitím tejto aplikácie!</string>
     <string name="alert_launcher_not_installed_get_gnl">Získať GNL</string>
     <string name="toast_donate_only">Táto funkcia vyžaduje XGELS Prémium!</string>
     <string name="pref_donate_button">Zakúpiť Prémium a podporiť vývojára!</string>
