@@ -129,7 +129,7 @@
     <string name="pref_cat_systemui_navbar_title">Navigačná lišta</string>
     <string name="pref_cat_systemui_statusbar_title">Stavový riadok</string>
     <string name="pref_dynamic_backbutton_title">Tlačidlo Späť</string>
-    <string name="pref_dynamic_backbutton_summary">Prepnúť na \">Prejsť do spánku\" na predvolenej domovskej obrazovke</string>
+    <string name="pref_dynamic_backbutton_summary">Prepnúť na \"Prejsť do spánku\" na predvolenej domovskej obrazovke</string>
     <string name="pref_dynamic_homebutton_title">Tlačidlo Domov</string>
     <string name="pref_dynamic_homebutton_summary">Prepnúť na \"Otvoriť ponuku aplikácií\" na predvolenej domovskej obrazovke</string>
     <string name="pref_dynamic_hideclock_title">Skryť hodiny</string>
@@ -145,7 +145,7 @@
     <string name="pref_backup_homescreen_summary">Zálohovať vaše rozloženie domovskej obrazovky (len ikony a priečinky) do\n/sdcard/XposedGELSettings</string>
     <string name="pref_restore_homescreen_title">Obnoviť</string>
     <string name="pref_restore_homescreen_summary">Obnoviť vaše rozloženie domovskej obrazovky (len ikony a priečinky) z\n/sdcard/XposedGELSettings</string>
-    <string name="pref_animate_dynamic_homebutton_title">>Animovať prepínanie ikon</string>
+    <string name="pref_animate_dynamic_homebutton_title">Animovať prepínanie ikon</string>
     <string name="pref_animate_dynamic_homebutton_summary">Rýchle stmavnutie v animácií pri zmene</string>
     <string name="pref_change_dynamic_homebutton_title">Dynamická ikona tlačidla Domov</string>
     <string name="pref_change_dynamic_homebutton_summary">Zmeniť ikonu tlačidla Domov na ikonu ponuky aplikácií na predvolenej obrazovke<</string>
