@@ -106,22 +106,6 @@
     <!-- V1.4 -->
     <string name="pref_switch_no_all_apps_button_title">Tlačidlo ponuky aplikácií</string>
     <string name="pref_switch_no_all_apps_button_summary">Skryť tlačidlo ponuky aplikácií. Prosím, odstráňte ikonu z ponuky aplikácií, ak túto možnosť zakážete!</string>
-    
-    <string-array name="fragmenttitles_array">
-        <item>Vitajte</item>
-        <item>Všeobecné</item>
-        <item>Vyhľadávací riadok</item>
-        <item>Domovská obrazovka</item>
-        <item>Ponuka aplikácií</item>
-        <item>Gestá</item>
-        <item>Symboly oznámení</item>
-        <item>Vylepšenia rozhrania</item>
-        <item>Zálohovať/Obnoviť</item>
-        <item>Nastavenia</item>
-        <item>Prémium/Podpora</item>
-        <item>Reverzné inžinierstvo</item>
-    </string-array>
-    
     <string name="drawer_open">Otvoriť navigačnú ponuku</string>
     <string name="drawer_close">Zatvoriť navigačnú ponuku</string>
     <string name="pref_systemui_explain_title">Poznámka</string>
@@ -301,7 +285,7 @@
     <string name="pref_reverseengineering_conclusion_title">Čo to znamená?</string>
     <string name="pref_reverseengineering_conclusion_summary">Predpokladá sa, že Google obfuskuje GNL s každou hlavnou verziou (3.X), čo znamená, že dôjde s najväčšou pravdepodobnosťou k znefunkčneniu XGELS. Tentoraz som však na to pripravený a som si istý, že môžem obnoviť všetky funkcie v priebehu niekoľkých hodín!</string>
     <string name="pref_reverseengineering_what_to_do_title">Čo môžete spraviť?</string>
-    <string name="pref_reverseengineering_what_to_do_summary">If you don\'t want GNL/Google Search to break XGELS you can go to the Google Play Store and disable automatic updates. GNL/Google Search uses staged rollouts, which means in some cases XGELS gets updated before you even receive the official GNL/Google Search update. You can click here to open the Play Store and disable the automatic update right now!</string>
+    <string name="pref_reverseengineering_what_to_do_summary">Ak nechcete, aby budúca aktualizácia GNL/Vyhľadávania Google spôsobila znefunkčnenie XGELS, prejdite do Obchodu Play a zakážte automatické aktualizovanie. Pri GNL/Vyhľadávaniu Google dochádza k postupnému uvoľnovaniu aktualizácií, čo znamenám že v niektorých prípadoch sa XGELS aktualizuje ešte predtým, než dostanete oficiálnu aktualizáciu GNL/Vyhľadávania Google. Kliknite sem pre otvorenie Obchodu Play a zakázanie automatického aktualizovania práve teraz!</string>
     <string name="pref_reverseengineering_bugs_title">Chyby</string>
     <string name="pref_reverseengineering_bugs_summary">Vzhľadom k potrebe reverzného inžinierstva, je možné, že sa vyskytnú nejaké chyby. Prosím, buďte trochu zhovievavejší a neudeľujte nízke hodnotenie pre túto aplikácia v Obchode Play. Použite funkciu \"Poslať hlásenie o chybe\" v Nastaveniach. Ďakujeme vám!</string>
     <string name="pref_reverseengineering_support_cat">Potrebujeme vašu podporu!</string>
@@ -313,5 +297,45 @@
     <!-- V1.6.2 -->
     <string name="pref_notificationbadge_help_title">Potrebujete pomoc?</string>
     <string name="pref_notificationbadge_help_summary">Kliknite sem, ak chcete zistiť, ako nastaviť symboly oznámení!</string>
+    
+    <!-- V1.7 -->
+    <string name="pref_switch_position_all_apps_button_title">Pozícia tlačidla ponuky aplikácií</string>
+    <string name="pref_switch_position_all_apps_button_summary">Vybrať pozíciu ponuky aplikácií</string>
+    <string name="pref_general_scroll_devider_title">Rýchlosť posunu</string>
+    <string name="pref_general_scroll_devider_summary">Nastaviť globálnu rýchlosť posunu</string>
+
+    <string-array name="fragmenttitles_array">
+        <item>Vitajte</item>
+        <item>Všeobecné</item>
+        <item>Vyhľadávací riadok</item>
+        <item>Domovská obrazovka</item>
+        <item>Ponuka aplikácií</item>
+        <item>Gestá</item>
+        <item>Symboly oznámení (Beta)</item>
+        <item>Ikony</item>
+        <item>Vylepšenia rozhrania</item>
+        <item>Zálohovať/Obnoviť</item>
+        <item>Nastavenia</item>
+        <item>Prémium/Podpora</item>
+        <item>Reverzné inžinierstvo</item>
+    </string-array>
+    
+    <string name="pref_switch_folder_hide_label">Skryť menovky ikon</string>
+    <string name="pref_icon_chooseiconpack_title">Balík ikon</string>
+    <string name="pref_icon_chooseiconpack_dialog_title">Vyberte balík ikon</string>
+    <string name="pref_icon_noiconpack">Predvolený</string>
+    <string name="alert_icon_noiconpackfound_title">Nenájdený žiadny balík ikon!</string>
+    <string name="alert_icon_noiconpackfound_summary">Nanašiel sa žiadny podporovaný balík ikon. Získať nejaký balík ikon?</string>
+    <string name="alert_icon_noiconpackfound_yes">Áno</string>
+    
+    <string name="pref_icon_premium_title">Prémiová funkcia</string>
+    <string name="pref_icon_premium_summary">Táto funkcia je dostupná len v XGELS Prémium.</string>
+    <string name="pref_icon_support_title">Štatistiky</string>
+    <string name="pref_icon_support_summary">Podporované ikony: %1$d z %2$d\nIkon celkovo: %3$d</string>
+    <string name="pref_icon_auto_apply_title">Automaticky použiť</string>
+    <string name="pref_icon_auto_apply_summary">Automaticky použiť nové alebo aktualizované balíky ikon</string>
+    
+    <string name="pref_show_google_search_bar_homescreen_title">Predvolená domovská obrazovka</string>
+    <string name="pref_show_google_search_bar_homescreen_summary">Zobraziť vyhľadávací riadok na predvolenej domovskej obrazovke</string>
     
 </resources>
