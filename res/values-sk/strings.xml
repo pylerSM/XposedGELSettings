@@ -153,7 +153,7 @@
     <string name="pref_auto_blur_wallpaper_title">Dynamické pozadie</string>
     <string name="pref_auto_blur_wallpaper_summary">Rozmazať pozadie zariadenie zakaždým, keď sa zmení a použiť ho ako pozadie XGELS. Toto môže rýchlo vybíjať batériu, ak používate aplikácie, ktoré menia tapetu v určitých intervaloch.</string>
     <string name="pref_dynamic_backbuttononeveryscreen_title">Prejsť do spánku na každej obrazovke</string>
-    <string name="pref_dynamic_backbuttononeveryscreen_summary">>Prejsť do spánku na každej domovskej obrazovke. Ak táto možnosť nie je povolená, uspanie prebehne len na predvolenej domovskej obrazovke.</string>
+    <string name="pref_dynamic_backbuttononeveryscreen_summary">Prejsť do spánku na každej domovskej obrazovke. Ak táto možnosť nie je povolená, uspanie prebehne len na predvolenej domovskej obrazovke.</string>
     
      <!-- V1.5 -->
     <string name="pref_selectwidgetstohide_summary">Vybrať miniaplikácie na skrytie</string>
